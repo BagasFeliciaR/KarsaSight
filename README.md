@@ -1,4 +1,4 @@
-# Karsa
+# KarsaSight
 
 Linux runtime observability and anomaly analysis toolkit — built on eBPF.
 
